@@ -142,4 +142,7 @@ Master: 00000001 // A inceput prima runda, este randul primului jucator si LED-u
 ![alt text](W1.jpeg "Circuit fizic") 
 ![alt text](W2.jpeg "Circuit fizic")
 ![alt text](W3.jpeg "Circuit fizic")
-<video controls src="Untitled video - Made with Clipchamp-1.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/92cd4f70-3a0e-43b5-b84f-46c3a81a70ba
+
+
